@@ -17,7 +17,7 @@ Mi contribución prevista se centra en programación gameplay, sistema de intera
 
 El proyecto cuenta con un GDD completo:
 
-- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](./GDD_SOKAR_LaVenganzaDelMal.pdf)
+- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](./Media/Diagrams/GDD_SOKAR_LaVenganzaDelMal.pdf)
 
 El documento recoge la presentación del proyecto, target, plataformas, referencias, elementos diferenciales, sinopsis, objetivos, mecánicas, dinámicas, estética, mundo, personajes, enemigos, objetos, historia, menús, controles, dificultad, sonido, producción y software previsto.
 

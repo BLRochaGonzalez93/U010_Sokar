@@ -17,7 +17,7 @@ My planned contribution focuses on gameplay programming, interaction system, ste
 
 The project includes a complete GDD:
 
-- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](./GDD_SOKAR_LaVenganzaDelMal.pdf)
+- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](./Media/Diagrams/GDD_SOKAR_LaVenganzaDelMal.pdf)
 
 The document covers the project presentation, target audience, platforms, references, differential elements, synopsis, objectives, mechanics, dynamics, aesthetics, world, characters, enemies, objects, story, menus, controls, difficulty, sound, production and planned software.
 

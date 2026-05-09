@@ -15,7 +15,7 @@ Mi contribución prevista se centra en programación gameplay, sistema de intera
 
 ## Documentación
 
-- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](./GDD_SOKAR_LaVenganzaDelMal.pdf)
+- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](../Media/Diagrams/GDD_SOKAR_LaVenganzaDelMal.pdf)
 
 ## Tecnologías previstas
 

@@ -15,8 +15,8 @@ My planned contribution focuses on gameplay programming, interaction system, ste
 
 ## Documentation
 
-- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](./GDD_SOKAR_LaVenganzaDelMal.pdf)
-
+- [`GDD_SOKAR_LaVenganzaDelMal.pdf`](../Media/Diagrams/GDD_SOKAR_LaVenganzaDelMal.pdf)
+- 
 ## Planned technologies
 
 - Unity
