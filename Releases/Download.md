@@ -72,4 +72,4 @@ Concepto / GDD completo.
 
 ## Repositorio
 
-[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U010_Sokar/U010_Sokar)
+[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U010_Sokar)

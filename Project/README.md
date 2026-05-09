@@ -127,14 +127,6 @@ La arquitectura inicial podría organizarse en:
 - `Audio` — pasos, ambiente, sustos, demonio y música dinámica.
 - `Save` — guardado, carga y progreso.
 
-## Capturas
-
-> Pendiente de añadir capturas finales.
-
-Ruta prevista:
-
-![Gameplay](./Media/screenshots/gameplay-01.png)
-
 ## Build
 
 Actualmente no hay una release pública disponible.

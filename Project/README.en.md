@@ -16,7 +16,7 @@ My planned contribution focuses on gameplay programming, interaction system, ste
 ## Documentation
 
 - [`GDD_SOKAR_LaVenganzaDelMal.pdf`](../Media/Diagrams/GDD_SOKAR_LaVenganzaDelMal.pdf)
-- 
+
 ## Planned technologies
 
 - Unity
@@ -126,14 +126,6 @@ The initial architecture could be organized into:
 - `UI` — HUD, pause, options, inventory and sound meter.
 - `Audio` — footsteps, ambience, scares, demon and dynamic music.
 - `Save` — save, load and progress.
-
-## Screenshots
-
-> Final screenshots pending.
-
-Planned path:
-
-![Gameplay](./Media/screenshots/gameplay-01.png)
 
 ## Build
 
